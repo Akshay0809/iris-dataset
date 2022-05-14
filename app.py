@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Iris Classifier- AKSHAY")
+st.title("Iris Classifier- T AKSHAY")
                                           
 sl = st.slider('Sepal Length', 4.3, 7.9, 0.5)               
 sw = st.slider('Sepal Width', 2.0, 4.4, 0.5)
